@@ -41,7 +41,7 @@
             {
                 "identifier": "sec2",
                 "type": "grid",
-                "title": "",
+                "title": "Aproveite mais",
                 "items": [
                     {
                         "identifier": "item12",
@@ -76,7 +76,7 @@
             {
                 "identifier": "sec3",
                 "type": "moreproducts",
-                "title": "",
+                "title": "Mais produtos",
                 "items": [
                     {
                         "identifier": "item3",
