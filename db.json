@@ -1,111 +1,113 @@
 {
-    "identifier": "123abc",
-    "moreProductsTitle": "More Products",
-    "sections": [
-        {
-            "identifier": "sec1",
-            "type": "contracted",
-            "title": "",
-            "items": [
-                {
-                    "identifier": "item1",
-                    "name": "Cartões",
-                    "icon": "cartoes",
-                    "highlighted": true,
-                    "deeplink": "https://example.com/cartoes"
-                },
-                {
-                    "identifier": "item2",
-                    "name": "Cartões",
-                    "icon": "cartoes",
-                    "highlighted": true,
-                    "deeplink": "https://example.com/cartoes"
-                },
-                {
-                    "identifier": "item3",
-                    "name": "Cartões",
-                    "icon": "cartoes",
-                    "highlighted": true,
-                    "deeplink": "https://example.com/cartoes"
-                },
-                {
-                    "identifier": "item4",
-                    "name": "Cartões",
-                    "icon": "cartoes",
-                    "highlighted": true,
-                    "deeplink": "https://example.com/cartoes"
-                }
-            ]
-        },
-        {
-            "identifier": "sec2",
-            "type": "grid",
-            "title": "",
-            "items": [
-                {
-                    "identifier": "item12",
-                    "name": "Imóveis",
-                    "icon": "imoveis",
-                    "highlighted": true,
-                    "deeplink": "https://example.com/cartoes"
-                },
-                {
-                    "identifier": "item13",
-                    "name": "Imóveis",
-                    "icon": "imoveis",
-                    "highlighted": true,
-                    "deeplink": "https://example.com/cartoes"
-                },
-                {
-                    "identifier": "item14",
-                    "name": "Imóveis",
-                    "icon": "imoveis",
-                    "highlighted": true,
-                    "deeplink": "https://example.com/cartoes"
-                },
-                {
-                    "identifier": "item15",
-                    "name": "Imóveis",
-                    "icon": "imoveis",
-                    "highlighted": true,
-                    "deeplink": "https://example.com/cartoes"
-                }
-            ]
-        },
-        {
-            "identifier": "sec3",
-            "type": "moreproducts",
-            "title": "",
-            "items": [
-                {
-                    "identifier": "item3",
-                    "name": "Cartões",
-                    "icon": "cartoes",
-                    "highlighted": true,
-                    "deeplink": "https://example.com/cartoes"
-                },
-                {
-                    "identifier": "item4",
-                    "name": "Cartões",
-                    "icon": "cartoes",
-                    "highlighted": true,
-                    "deeplink": "https://example.com/cartoes"
-                },
-                {
-                    "identifier": "item5",
-                    "name": "Cartões",
-                    "icon": "cartoes",
-                    "highlighted": true,
-                    "deeplink": "https://example.com/cartoes"
-                },
-                {
-                    "identifier": "item6",
-                    "name": "Cartões",
-                    "icon": "cartoes",
-                    "highlighted": true,
-                    "deeplink": "https://example.com/cartoes"
-                }
-            ]
-        }
-    ]
+    "hubs" : {
+        "identifier": "123abc",
+        "moreProductsTitle": "More Products",
+        "sections": [
+            {
+                "identifier": "sec1",
+                "type": "contracted",
+                "title": "",
+                "items": [
+                    {
+                        "identifier": "item1",
+                        "name": "Cartões",
+                        "icon": "cartoes",
+                        "highlighted": true,
+                        "deeplink": "https://example.com/cartoes"
+                    },
+                    {
+                        "identifier": "item2",
+                        "name": "Cartões",
+                        "icon": "cartoes",
+                        "highlighted": true,
+                        "deeplink": "https://example.com/cartoes"
+                    },
+                    {
+                        "identifier": "item3",
+                        "name": "Cartões",
+                        "icon": "cartoes",
+                        "highlighted": true,
+                        "deeplink": "https://example.com/cartoes"
+                    },
+                    {
+                        "identifier": "item4",
+                        "name": "Cartões",
+                        "icon": "cartoes",
+                        "highlighted": true,
+                        "deeplink": "https://example.com/cartoes"
+                    }
+                ]
+            },
+            {
+                "identifier": "sec2",
+                "type": "grid",
+                "title": "",
+                "items": [
+                    {
+                        "identifier": "item12",
+                        "name": "Imóveis",
+                        "icon": "imoveis",
+                        "highlighted": true,
+                        "deeplink": "https://example.com/cartoes"
+                    },
+                    {
+                        "identifier": "item13",
+                        "name": "Imóveis",
+                        "icon": "imoveis",
+                        "highlighted": true,
+                        "deeplink": "https://example.com/cartoes"
+                    },
+                    {
+                        "identifier": "item14",
+                        "name": "Imóveis",
+                        "icon": "imoveis",
+                        "highlighted": true,
+                        "deeplink": "https://example.com/cartoes"
+                    },
+                    {
+                        "identifier": "item15",
+                        "name": "Imóveis",
+                        "icon": "imoveis",
+                        "highlighted": true,
+                        "deeplink": "https://example.com/cartoes"
+                    }
+                ]
+            },
+            {
+                "identifier": "sec3",
+                "type": "moreproducts",
+                "title": "",
+                "items": [
+                    {
+                        "identifier": "item3",
+                        "name": "Cartões",
+                        "icon": "cartoes",
+                        "highlighted": true,
+                        "deeplink": "https://example.com/cartoes"
+                    },
+                    {
+                        "identifier": "item4",
+                        "name": "Cartões",
+                        "icon": "cartoes",
+                        "highlighted": true,
+                        "deeplink": "https://example.com/cartoes"
+                    },
+                    {
+                        "identifier": "item5",
+                        "name": "Cartões",
+                        "icon": "cartoes",
+                        "highlighted": true,
+                        "deeplink": "https://example.com/cartoes"
+                    },
+                    {
+                        "identifier": "item6",
+                        "name": "Cartões",
+                        "icon": "cartoes",
+                        "highlighted": true,
+                        "deeplink": "https://example.com/cartoes"
+                    }
+                ]
+            }
+        ]
+    }
 }
